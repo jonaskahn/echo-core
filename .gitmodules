@@ -1,0 +1,6 @@
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/jonaskahn/echo-plugins.git
+[submodule "sdk"]
+	path = sdk
+	url = https://github.com/jonaskahn/echo-sdk.git
